@@ -7,5 +7,10 @@
 <p>
 
  <p align="center">
-   <img src="https://img.shields.io/badge/Java-ED8800.svg?style=flat&logo=java&logColor=blue" alt="java"/>
+   <img src="https://img.shields.io/badge/Java-ED8800.svg?style=flat&logo=java&logColor=white" alt="java"/>
+   <img src="https://img.shields.io/badge/SpringBoot-ACFA58?style=flat&logo=Spring&logColor=white" alt="SpringBoot"/>
+   <img src="https://img.shields.io/badge/MySQL-0040FF?style=flat&logo=MySQL&logoColor=white" alt="MySQL"/>
+   <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white" alt="Hibernate"/>
+   <img src="https://img.shields.io/badge/Springsecurity-6DB33F?style=flat&logo=Springsecurity&logoColor=white" alt="Springsecurity"/>
+   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AWS&logoColor=white" alt="AWS"/>
  </p>
