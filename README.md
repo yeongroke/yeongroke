@@ -5,3 +5,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yeongroke&show_icons=true&theme=radical"/>
 <p>
+
+ <p align="center">
+   <img src="https://img.shields.io/badge/Java-ED8800.svg?style=flat&logo=java&logColor=blue" alt="java"/>
+ </p>
