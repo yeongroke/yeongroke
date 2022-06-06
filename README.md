@@ -1,6 +1,7 @@
 
 # Kim YeongRok // yeongroke [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeongroke&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
--  **[개인적으로 공부한 자료를 저장하는 곳 입니다.]**
+-  **좋은 개발문화와 호기심이 많고 배운걸 전파하는 개발자가 되고싶은 김영록(Yeongroke)입니다**
+-  **코드리뷰와 정보공유를 좋아하며 코드리뷰와 정보공유를 통해서 좀 더 나은 코드, 더욱더 성장한다는 믿음이 있습니다**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yeongroke&show_icons=true&theme=radical"/>
