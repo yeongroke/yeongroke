@@ -3,6 +3,9 @@
 -  **좋은 개발문화와 호기심이 많고 배운걸 전파하는 개발자가 되고싶은 김영록(Yeongroke)입니다**
 -  **코드리뷰와 정보공유를 좋아하며 코드리뷰와 정보공유를 통해서 좀 더 나은 코드, 더욱더 성장한다는 믿음이 있습니다**
 <br>
+<br>
+contact - chfaos153@naver.com
+<br>
 
 # Skill
 -  Language : <img src="https://img.shields.io/badge/Java-ED8800.svg?style=flat&logo=java&logColor=white" alt="java"/><img src="https://img.shields.io/badge/JavaScript-5858FA.svg?style=flat&logo=JavaScript&logColor=white" alt="JavaScript"/>
