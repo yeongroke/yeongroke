@@ -14,7 +14,7 @@ contact - chfaos153@naver.com
 <br>
 
 # Tools
--  JetBrains IDE(2years)
+-  JetBrains IDE(3years)
 -  Eclipse(1years)
 -  Git(3years)
 
