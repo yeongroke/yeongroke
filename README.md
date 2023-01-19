@@ -18,6 +18,8 @@ contact - chfaos153@naver.com
 -  Eclipse(1years)
 -  Git(3years)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeongroke&show_icons=true&theme=radical"/>
-<p>
+<div align="center">
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yeongroke&show_icons=true&theme=github_dark)
+
+</div>
