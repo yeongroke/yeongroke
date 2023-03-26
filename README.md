@@ -6,6 +6,7 @@
 <br>
 <br>
 contact - chfaos153@naver.com
+blog - https://rokidev.tistory.com/ ( 예정 )
 <br>
 
 # Skill
