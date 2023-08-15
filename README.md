@@ -7,8 +7,6 @@
 <br>
 contact - chfaos153@naver.com
 <br>
-blog - https://rokidev.tistory.com/ ( 예정 )
-<br>
 
 # Skill
 -  Language : <img src="https://img.shields.io/badge/Java-ED8800.svg?style=flat&logo=java&logColor=white" alt="java"/><img src="https://img.shields.io/badge/JavaScript-5858FA.svg?style=flat&logo=JavaScript&logColor=white" alt="JavaScript"/>
@@ -17,9 +15,9 @@ blog - https://rokidev.tistory.com/ ( 예정 )
 <br>
 
 # Tools
--  JetBrains IDE(3years)
--  Eclipse(1years)
--  Git(3years)
+-  JetBrains IDE(4years)
+-  Eclipse(2years)
+-  Git(4years)
 
 <div align="center">
 
